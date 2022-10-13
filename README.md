@@ -17,4 +17,4 @@
 	
 	Please open the "config.properties" file and change the chrome driver path 
 	
-	I have created a regression suit xml file in this project. You can also run it. File name is "assignment_regression.xm"
+	I have created a regression suit xml file in this project. You can also run it. File name is "assignment_regression.xml"
