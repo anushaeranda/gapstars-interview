@@ -1,9 +1,9 @@
-01.First Open the project any IDE (Eclipse or Intelij)
+01.	First Open the project any IDE (Eclipse or Intelij)
 
-02. open the pom.xml file 
+02.	open the pom.xml file 
 
-03.Update the versions running on your machine in the "property tag". I have parameterized the dependency versions
-<properties>
+03.	Update the versions running on your machine in the "property tag". I have parameterized the dependency versions
+	<properties>
         <java.version>17</java.version>
         <junit.version>4.13.2</junit.version>
         <cucumber.version>7.8.0</cucumber.version>
@@ -13,11 +13,11 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
+    	</properties>
 	
-04.Open the terminal and type the "mvn clean install -DskipTests"
+04.	Open the terminal and type the "mvn clean install -DskipTests"
 
-05.Please open the "config.properties" file and change the chrome driver path 
+05.	Please open the "config.properties" file and change the chrome driver path 
 
-06.I have created a regression suit xml file in this project. You can also run it. File name is "assignment_regression.xm"
+06.	I have created a regression suit xml file in this project. You can also run it. File name is "assignment_regression.xm"
 
