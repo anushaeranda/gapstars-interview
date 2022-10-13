@@ -1,5 +1,7 @@
 01.First Open the project any IDE (Eclipse or Intelij)
+
 02. open the pom.xml file 
+
 03.Update the versions running on your machine in the "property tag". I have parameterized the dependency versions
 <properties>
         <java.version>17</java.version>
